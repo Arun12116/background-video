@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(55, 122, 122);
+}
+.vidio{
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-top:7rem;
+}
